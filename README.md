@@ -5,9 +5,9 @@ I'm a passionate full-stack developer with expertise in web development and a st
 
     🎓 Recently completed my BSc in Computer Science and Engineering.
     🌍 Planning to pursue my Master’s in Software Engineering abroad.
-    🌱 I’m constantly learning new tech, with a focus on AI, Web3, and Russian language (over 2000 words and counting!).
+    🌱 I’m constantly learning new tech, with a focus on combination web and AI.
     💡 I have a particular interest in creating healthcare applications and productivity tools for developers.
-    ⚙️ My main work environment includes Kali Linux and Windows 11.
+    ⚙️ My main work environment includes Windows 11 and ubuntu.
 
 🔧 Projects
 🚀 Featured Projects
@@ -24,17 +24,17 @@ I'm a passionate full-stack developer with expertise in web development and a st
 
 🛠 Tech Stack
 
-    Frontend: JavaScript, React Native, TailwindCSS
+    Frontend: JavaScript, React, React-Native, Nextjs, Typscript, TailwindCSS
     Backend: Node.js, Express, Appwrite
     Databases: MySQL, MongoDB
     DevOps: Docker, GitHub Actions
-    Other Skills: Machine Learning, Web3, Networking
+    Other Skills: Python, Networking
 
 📫 How to Reach Me
 
 Feel free to connect with me:
 
-    LinkedIn: Your LinkedIn
+    
     Email: mdharun0482@gmail.com
 
 I’m always open to collaborating on exciting projects and learning opportunities. Thanks for stopping by!
