@@ -4,7 +4,6 @@ I'm a passionate full-stack developer with expertise in web development and a st
 👨‍💻 About Me
 
     🎓 Recently completed my BSc in Computer Science and Engineering.
-    🌍 Planning to pursue my Master’s in Software Engineering abroad.
     🌱 I’m constantly learning new tech, with a focus on combination web and AI.
     💡 I have a particular interest in creating healthcare applications and productivity tools for developers.
     ⚙️ My main work environment includes Windows 11 and ubuntu.
@@ -12,7 +11,7 @@ I'm a passionate full-stack developer with expertise in web development and a st
 🔧 Projects
 🚀 Featured Projects
 
-    AI Image Generator – A project where I’m developing an AI-powered tool for generating images.
+    Banking - An online banking platform with multiple bank transaction.
     CodeQuery – A web application for developers to ask and answer coding questions.
     E-commerce for Mushroom Farming – An e-commerce platform for selling mushroom cultivation products.
     Healthcare Appointment System – A web app for managing patient-doctor appointments.
