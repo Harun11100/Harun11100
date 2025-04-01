@@ -9,17 +9,13 @@ I'm a passionate full-stack developer with expertise in web development and a st
     ⚙️ My main work environment includes Windows 11 and ubuntu.
 
 🔧 Projects
-🚀 Featured Projects
+🚀 Featured Projects(Built with Next.js):
 
-    Banking - An online banking platform with multiple bank transaction.
-    CodeQuery – A web application for developers to ask and answer coding questions.
-    E-commerce for Mushroom Farming – An e-commerce platform for selling mushroom cultivation products.
-    Healthcare Appointment System – A web app for managing patient-doctor appointments.
-
-🌱 Other Interesting Projects
-
-    Summarizer Tool – Summarizes articles using links.
-    Cryptocurrency Game – An interactive game for marketing cryptocurrency.
+    Jannater Path Matrimony – Founder | An Islamic matrimony platform with AI-powered matchmaking, analyzing user biodata and partner expectations for better compatibility.
+    Banking – An online banking platform with multiple bank transactions.
+    CodeQuery – A Q&A web app for developers to ask and answer coding questions.
+    E-commerce for Mushroom Farming – A platform for selling mushroom cultivation products.
+    Healthcare Appointment System – A web app for managing doctor-patient appointments.
 
 🛠 Tech Stack
 
